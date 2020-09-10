@@ -1,2 +1,4 @@
 # arithmetic_arranger
-first git repo
+first git repository
+
+simple programming and string formatting exercise.
