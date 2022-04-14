@@ -94,6 +94,6 @@ def arithmetic_arranger(prob,chk = False):
         ly = line1 + "\n" + line2 + "\n" + line3 + "\n" + line4
         return ly  
 
-#fdgjodfhjgifdhgdfhgn
+
 print(arithmetic_arranger(["32 + 698", "3801 - 2", "45 + 43", "123 + 49"],True))
 #test changes
