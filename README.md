@@ -1,4 +1,4 @@
 # arithmetic_arranger
 first git repository
 
-simple programming and string formatting exercise.
+Simple programming and string formatting exercise.
